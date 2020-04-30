@@ -70,7 +70,7 @@ public class pushFileToSlack {
 	}
 
 	public static void main(String[] args) {
-		File file = new File("ANT\");
+		File file = new File("C:\Users\Provar Sourav\.jenkins\workspace\PushFileToChannel\ANT\");
 		String fileName = "Test_Run_Report.pdf";
 		String folderNameToBeSearched = "Results";
 		String channel = "simple";
