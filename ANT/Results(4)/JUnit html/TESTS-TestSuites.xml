@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite failures="2" hostname="DELL-SAURABH_GUPTA" id="0" name="TestProject/tests" package="" skipped="0" tests="4" time="4.273" timestamp="Tue Apr 28 17:39:17 IST 2020">
+	    <properties>
+		      <property name="excludeCallableTestCases" value="true" />
+
+		      <property name="testEnvironment" value="" />
+
+		      <property name="pluginOutputLevel" value="WARNING" />
+
+		      <property name="projectPath" value=".." />
+
+		      <property name="salesforceMetadataCache" value="Reuse" />
+
+		      <property name="resultsPathDisposition" value="Increment" />
+
+		      <property name="testOutputLevel" value="WARNING" />
+
+		      <property name="webBrowserType" value="Google Chrome" />
+
+		      <property name="resultsPath" value="../ANT/Results" />
+
+		      <property name="webBrowserConfiguration" value="Full Screen" />
+
+		      <property name="projectCachePath" value="C:\Users\Provar Sourav\APIDemo\TestProject\ANT\..\..\.provarCaches" />
+
+	    </properties>
+
+	    <testcase classname="tests/TC001.testcase" name="TC001.testcase" time="4.226">
+		      <failure message="Execution failed"><![CDATA[Value is not equal.  (expected) 11 = 10 (actual)]]></failure>
+
+	    </testcase>
+
+	    <testcase classname="tests/TC002.testcase" name="TC002.testcase" time="0.013">
+	</testcase>
+
+	    <testcase classname="tests/TC3.testcase" name="TC3.testcase" time="0.021">
+		      <failure message="Execution failed"><![CDATA[Value is not equal.  (expected) 12 = 10 (actual)]]></failure>
+
+	    </testcase>
+
+	    <testcase classname="tests/TC4.testcase" name="TC4.testcase" time="0.009">
+	</testcase>
+
+  </testsuite>
+</testsuites>

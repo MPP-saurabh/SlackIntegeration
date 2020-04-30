@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestProject/tests" tests="2" failures="0" skipped="0" hostname="DELL-SAURABH_GUPTA" time="0.039" timestamp="Tue Apr 28 17:20:44 IST 2020">
+	<properties>
+		<property name="excludeCallableTestCases" value="true"/>
+		<property name="testEnvironment" value=""/>
+		<property name="pluginOutputLevel" value="WARNING"/>
+		<property name="projectPath" value=".."/>
+		<property name="salesforceMetadataCache" value="Reuse"/>
+		<property name="resultsPathDisposition" value="Increment"/>
+		<property name="testOutputLevel" value="WARNING"/>
+		<property name="webBrowserType" value="Google Chrome"/>
+		<property name="resultsPath" value="../ANT/Results"/>
+		<property name="webBrowserConfiguration" value="Full Screen"/>
+		<property name="projectCachePath" value="C:\Users\Provar Sourav\APIDemo\TestProject\ANT\..\..\.provarCaches"/>
+	</properties>
+	<testcase classname="tests/TC001.testcase" name="TC001.testcase" time="0.03">
+	</testcase>
+	<testcase classname="tests/TC002.testcase" name="TC002.testcase" time="0.008">
+	</testcase>
+</testsuite>
