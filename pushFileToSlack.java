@@ -63,7 +63,7 @@ public class pushFileToSlack {
 				.addFormDataPart("channels", channelReceiver).build();
 		Request request = new Request.Builder().url("https://slack.com/api/files.upload").method("POST", body)
 				.addHeader("Authorization",
-						"Bearer xoxp-1058001528117-1058001528165-1096066129202-596e6c5c4eaff36222cda5d18fbb216a")
+						"Bearer xoxp-1058001528117-1058001528165-1096085451426-e44b3b5c90f23c1507e410ef0d2017a9")
 				.build();
 		Response response = client.newCall(request).execute();
 
